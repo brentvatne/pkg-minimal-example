@@ -11,3 +11,11 @@ npm i -g pkg
 # cd into this repo
 pkg . --out-dir output
 ```
+
+# Size of executables
+
+```
+32M answer-linux
+33M answer-macos
+20M answer-win.exe
+```
