@@ -14,6 +14,8 @@ pkg . --out-dir output
 
 # Size of executables
 
+Using pkg@3.0.0-beta.33
+
 ```
 32M answer-linux
 33M answer-macos
